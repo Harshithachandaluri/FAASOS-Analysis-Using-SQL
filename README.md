@@ -79,8 +79,8 @@ This dataset contains sales transactions from a three different branches of Walm
 6. What product line had the largest revenue?
 7. What is the city with the largest revenue?
 8. What product line had the largest VAT?
-9. Which branch sold more products than average product sold?
-10.What is the most common product line by gender?
+9. Which branch sold more products than average product sold?              
+10.What is the most common product line by gender?                     
 11.What is the average rating of each product line?
 
 ### Sales
